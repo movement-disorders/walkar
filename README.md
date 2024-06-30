@@ -1,5 +1,5 @@
 # walkar
-> The technical written signature for pronouncing "walkar" as "walker" using phonetic notation (International Phonetic Alphabet, IPA) would be as follows:
+> ChatGPT suggests: The technical written signature for pronouncing "walkar" as "walker" using phonetic notation (International Phonetic Alphabet, IPA) would be as follows:
 
 **/ˈwɔkər/**
 
